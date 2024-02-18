@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mehak Fatima</h1>
 <h3 align="center">A frontend developer from Pakistan</h3>
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **React Native and React JS**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/mehak-fatima-08a568275/](https://www.linkedin.com/in/mehak-fatima-08a568275/)
 

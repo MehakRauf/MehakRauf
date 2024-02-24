@@ -4,8 +4,6 @@
 
 - 👨‍💻 You can also find my all projects on: [https://www.linkedin.com/in/mehak-fatima-08a568275/](https://www.linkedin.com/in/mehak-fatima-08a568275/)
 
-- 📫 Can contact me : **mehak.fatima2386@gmail.com**
-
 <h3 align="left">My Tech Stack:</h3>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />

@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Mehak Fatima</h1>
-<h6 align="left">💻 I am a full stack web developer who is currently diving deep into the world of ReactJS and unlocking the exciting adventures of React Native mobile app development..✨ </h6>
+<h6 align="left">💻 I am a frontend web developer who is currently diving deep into the world of ReactJS and unlocking the exciting adventures of React Native mobile app development..✨ </h6>
 <h6>My GitHub account is a showcase of my work, where you can find a collection of projects that demonstrate my skills and creativity. Join me on this journey as I continue to expand my knowledge and expertise in the ever-evolving world of web and mobile development. Let's code our way to greatness together!</h6>
 
 - 👨‍💻 You can also find me on: [https://www.linkedin.com/in/mehak-fatima-08a568275/](https://www.linkedin.com/in/mehak-fatima-08a568275/)

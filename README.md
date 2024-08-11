@@ -21,6 +21,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-</div>
 
+ 
+## 🔥 My Projects Collection 🚀
+|Technology   | GitHub Repo| 
+|--------------|-------------|
+| HTML + CSS    | [Github](https://github.com/MehakRauf/CSS_HTML_PROJECTS)|
+| JavaScript   | [Github](https://github.com/MehakRauf/JavaScriptProjects)|
+| C++    |[Github](https://github.com/MehakRauf/Cpp-Questions)|
 

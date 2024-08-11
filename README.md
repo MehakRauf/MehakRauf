@@ -26,6 +26,7 @@
 ## 🔥 My Projects Collection 🚀
 |Technology   | GitHub Repo| 
 |--------------|-------------|
+| React   |[Github](https://github.com/MehakRauf/React_Projects)|
 | HTML + CSS    | [Github](https://github.com/MehakRauf/CSS_HTML_PROJECTS)|
 | JavaScript   | [Github](https://github.com/MehakRauf/JavaScriptProjects)|
 | C++    |[Github](https://github.com/MehakRauf/Cpp-Questions)|

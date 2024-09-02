@@ -13,6 +13,7 @@ My GitHub account is a showcase of my work, where you can find a collection of p
 - **Database Management Systems (DBMS)** using **MySQL**
 - **Frontend Development** using **HTML**, **CSS**, **JavaScript**, and **ReactJS**
 - **Mobile App Development** using **React Native**
+- **Other Programming Languages** using **Python**
 
 ## My Projects Collection
 

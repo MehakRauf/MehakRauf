@@ -21,8 +21,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-</div>
-<div>
+
 ##  My Projects Collection 
 |Technology   | GitHub Repo| 
 |--------------|-------------|
@@ -32,6 +31,6 @@
 | C++    |[Github](https://github.com/MehakRauf/Cpp-Questions)|
 | DSA    |[Github](https://github.com/MehakRauf/DSA_CHALLENGE)|
 | Academic Projects + Material    |[Github](https://github.com/MehakRauf/Third_Year_Material)|
-</div>
+
 
 

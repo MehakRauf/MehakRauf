@@ -4,7 +4,9 @@
 
 My GitHub account is a showcase of my work, where you can find a collection of projects that demonstrate my skills and creativity. Join me on this journey as I continue to expand my knowledge and expertise in the ever-evolving world of web development!
 
-👨‍💻 You can also find me on: [LinkedIn](https://www.linkedin.com/in/mehak-fatima-08a568275/)
+👨‍💻 I’ve also started solving challenges on HackerRank and LeetCode to sharpen my problem-solving skills and deepen my understanding of algorithms.
+
+You can also find me on: [LinkedIn](https://www.linkedin.com/in/mehak-fatima-08a568275/)
 
 ## My Tech Stack
 

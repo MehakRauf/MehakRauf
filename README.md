@@ -29,4 +29,5 @@ You can also find me on: [LinkedIn](https://www.linkedin.com/in/mehak-fatima-08a
 | **Academic Projects + Material**        | [Github](https://github.com/MehakRauf/Third_Year_Material)       |
 
 Feel free to explore my repositories and get in touch if you have any questions or just want to connect!
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mehakrauf&" alt="mehakrauf" /></p>
 

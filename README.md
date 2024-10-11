@@ -1,6 +1,6 @@
 # Hi, I'm Mehak Fatima
 
-💻 I am a frontend web developer who is currently diving deep into the world of ReactJS....✨
+💻 A frontend web developer who is currently diving deep into the world of ReactJS....✨
 
 My GitHub account is a showcase of my work, where you can find a collection of projects that demonstrate my skills and creativity. Join me on this journey as I continue to expand my knowledge and expertise in the ever-evolving world of web development!
 

@@ -14,7 +14,6 @@ You can also find me on: [LinkedIn](https://www.linkedin.com/in/mehak-fatima-08a
 - **Data Structures and Algorithms (DSA)** using **C++**
 - **Database Management Systems (DBMS)** using **MySQL**
 - **Frontend Development** using **HTML**, **CSS**, **JavaScript**, and **ReactJS**
-- **Mobile App Development** using **React Native**
 - **Other Programming Languages** using **Python**
 
 ## My Projects Collection

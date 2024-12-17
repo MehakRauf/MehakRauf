@@ -1,6 +1,6 @@
 # Hi, I'm Mehak Fatima
 
-💻 A fullstack web developer who is currently diving deep into the world of ReactJS and NodeJS....✨
+💻 A fullstack web developer who is currently diving deep into the world of ERN Stack....✨
 
 My GitHub account is a showcase of my work, where you can find a collection of projects that demonstrate my skills and creativity. Join me on this journey as I continue to expand my knowledge and expertise in the ever-evolving world of web development!
 
